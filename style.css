@@ -15,7 +15,26 @@
     transition: 0.3s;
 }
 
+
+#btn2 {
+    padding: 25px 30px;
+    font-size: 18px;
+    background-color: dimgray;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
 #btn:hover {
     background-color: gray;
     transform: scale(1.05);
 }
+
+
+#btn2:hover {
+    background-color: gray;
+    transform: scale(1.05);
+}
+
